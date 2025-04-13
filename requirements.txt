@@ -1,0 +1,6 @@
+pillow>=8.0.0
+opencv-python>=4.5.0
+pyautogui>=0.9.52
+numpy>=1.19.0
+requests>=2.25.0
+keyboard>=0.13.5 
