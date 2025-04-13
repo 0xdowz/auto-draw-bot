@@ -1,0 +1,6 @@
+{
+    "reportMissingModuleSource": {
+        "severity": "none",
+        "moduleNames": ["win32gui"]
+    }
+} 
